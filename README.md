@@ -23,10 +23,11 @@
 1 -500 3000 -42 7 100 -9999 20 5
 
 Вывод:
+```
     1  -500  3000
   -42     7   100
 -9999    20     5
-
+```
 Запуск:
 gcc -Wall -Wextra -Werror -std=c11 input_dynamic_falt.c -o matrix -lm
 ./matrix
@@ -44,11 +45,12 @@ gcc calculator.c -o calc
 ./calc
 
 ## Структура репозитория
+```
 my_projects/
 ├── input_dynamic_falt.c
 ├── calculator.c
 └── README.md
-
+```
 ## Стек технологий
 - Языки: C (C11), Python (начальный уровень)
 - Сборка: GCC
