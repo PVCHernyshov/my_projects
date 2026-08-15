@@ -8,13 +8,13 @@
 
 ## Структура репозитория
 
-
+```
 my_projects/
-├── calculator/ # Калькулятор
-├── matrix_static/ # Работа со статической матрицей
-├── matrix_dynamic/ # Работа с динамической матрицей
-└── matrix_circus/ # Модульный проект с матрицами
-
+├── calculator/
+├── matrix_static/
+├── matrix_dynamic/
+└── matrix_circus/
+```
 
 ---
 
