@@ -62,5 +62,4 @@ my_projects/
 
 ## Контакты
 
-- GitHub: [PVCHernyshov](https://github.com/PVCHernyshov)
-- Школа 21: студент основного потока
+- pchernyshov@mail.ru
